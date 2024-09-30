@@ -1,0 +1,77 @@
+.li{
+    margin-left: 100px;
+}
+.txt{
+    margin-left: 13px;
+    font-size: 14px;
+    line-height: 5px;
+    margin-top: 16px;
+}
+.inpt{
+    margin-left: 450px;
+    width: 460px;
+    height: 40px;
+}
+.inm{
+    margin-left: 35%;
+ 
+}
+.foter{
+    margin-top: 2%;
+    background-color: black;
+    height: 350px;
+}
+.tst{
+    margin-top: 3%;
+ padding-left: 50px;
+    line-height: 35px;
+    color: white;
+    font-weight: bold;
+}
+.tx{
+    margin-top: 3%;
+  
+    line-height: 35px;
+    color: white;
+    font-weight: bold;
+}
+.txx{
+    margin-top: 3%;
+  
+    line-height: 35px;
+    color: white;
+    font-weight: bold;
+}
+.cont{
+    color: white;
+    padding-top: 3%;
+    line-height: 40px;
+}
+.isma{
+    background-color: aqua;
+}
+.rating-container {
+    display: flex;
+    align-items: center;
+}
+
+.rating-container .fa-star {
+    font-size: 24px; /* Adjust the size of the stars */
+    margin-right: 5px; /* Space between stars */
+    transition: color 0.3s ease;
+}
+
+/* Color for active stars */
+.text-warning {
+    color: #ffc107; /* Yellow color for filled stars */
+}
+
+/* Color for inactive stars */
+.text-muted {
+    color: #e4e5e9; /* Light gray color for unfilled stars */
+}
+.strs{
+    margin-right: 30%;
+    padding-bottom: 30px;
+
+}

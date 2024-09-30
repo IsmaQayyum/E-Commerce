@@ -1,0 +1,22 @@
+/* Ensure carousel images are responsive */
+.carousel-item img {
+    width: 100%;
+    height: auto; /* Maintain aspect ratio */
+  }
+  
+  /* Optional: Adjust carousel caption for better readability on smaller screens */
+  .carousel-caption {
+    position: absolute;
+    bottom: 20px;
+    left: 15px;
+    right: 15px;
+    padding: 1rem;
+    color: #fff;
+    text-align: center;
+  }
+  
+  @media (max-width: 767.98px) {
+    .carousel-caption {
+      font-size: 0.8rem;
+    }
+  }

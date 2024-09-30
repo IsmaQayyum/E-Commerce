@@ -1,0 +1,12 @@
+/* Initial state: off-screen to the right and invisible */
+.img-slide {
+    opacity: 0;
+    transform: translateX(100%); /* Start off-screen to the right */
+    transition: all 1s ease; /* Adjust duration and easing as needed */
+  }
+  
+  /* Visible state: on-screen and visible */
+  .img-slide.visible {
+    opacity: 1;
+    transform: translateX(0); /* Slide into the view */
+  }

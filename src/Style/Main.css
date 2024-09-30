@@ -1,0 +1,49 @@
+.mn{
+    height: 44px;
+    width: 160px;
+    background-color: white;
+    color: black;
+    box-shadow: rgba(86, 86, 92, 0.2) 0px 7px 29px 0px;
+    border: none;
+    border-radius: 10px;
+  margin-top: 450px;
+  margin-left: 130px;
+    font-weight: bold;
+
+}
+.imaagg{
+background-image: url("https://furorjeans.com/cdn/shop/files/HPCB_Men_Shirts_18ed1143-7ac3-4602-9568-d1c746b41ee0_750x_crop_center.webp?v=1720266423");
+background-repeat: no-repeat;
+background-size: cover;
+height: 550px;
+width: 440px;
+  margin-top: 4px;
+  margin-left: 15px;
+
+}
+
+
+.imge1{
+  background-image: url("https://furorjeans.com/cdn/shop/files/HPCB_Women_Shirts_d00fd65e-b51f-4299-9dc8-1216df934fd3_750x_crop_center.webp?v=17202664233");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 550px;
+  width: 440px;
+    margin-top: 4px;
+    margin-left: 10px;
+  }
+  .imaag2{
+    background-image: url("https://furorjeans.com/cdn/shop/files/HPCB_Men_Tees_e407618f-e002-445b-a54b-3ea87ddaf223_750x_crop_center.webp?v=1720266423");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+    width: 440px;
+      margin-top: 4px;
+      margin-left: 10px;
+    }
+.mn:hover{
+    box-shadow: rgba(86, 86, 92, 0.4) 0px 7px 29px 0px;
+    cursor: pointer;
+    color: white;
+    background-color: black;
+}
